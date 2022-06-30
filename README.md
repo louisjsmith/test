@@ -17,7 +17,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted - Bulleted - Bulleted
+- Bulleted - Bulleted 3 
 - List
 
 1. Numbered
