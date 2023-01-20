@@ -13,7 +13,6 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
   
-- name: GitHub Issues to Azure DevOps
   uses: danhellem/github-actions-issue-to-work-item@v2.1
 
 - script: |
